@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+datasets
+spacy
+pandas
+numpy
+python-dotenv
+seqeval
+huggingface_hub
+accelerate
